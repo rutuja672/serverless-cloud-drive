@@ -36,8 +36,6 @@ serverless-cloud-drive
 ├── README.md
 ├── app.py
 ├── requirements.txt
-├── screenshots
-└── docs
 ```
 
 ---
